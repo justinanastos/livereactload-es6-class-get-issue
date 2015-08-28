@@ -1,0 +1,36 @@
+{
+  "name": "livereactload-es6-class-get-issue",
+  "version": "1.0.0",
+  "description": "Example illustrating errors arrising from livereactload and es7 class properties.",
+  "main": "blank",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/justinanastos/livereactload-es6-class-get-issue.git"
+  },
+  "author": "Justin Anastos <justin.anastos@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justinanastos/livereactload-es6-class-get-issue/issues"
+  },
+  "homepage": "https://github.com/justinanastos/livereactload-es6-class-get-issue#readme",
+  "dependencies": {
+    "babel-core": "^5.8.23",
+    "babelify": "^6.2.0",
+    "browserify": "^11.0.1",
+    "gulp": "^3.9.0",
+    "gulp-live-server": "0.0.25",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-util": "^3.0.6",
+    "jquery": "^2.1.4",
+    "livereactload": "^0.6.0",
+    "react": "^0.13.3",
+    "underscore": "^1.8.3",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.3.1"
+  }
+}
